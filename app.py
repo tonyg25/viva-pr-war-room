@@ -4,7 +4,6 @@ import time
 import json
 import requests
 import pandas as pd
-import plotly.express as px
 import streamlit as st
 from datetime import datetime, timedelta
 from dotenv import load_dotenv
